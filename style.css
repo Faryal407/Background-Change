@@ -11,14 +11,14 @@ body {
     text-align: center;
 }
 h1{
-     background-image: linear-gradient(rgb(234, 40, 40), plum, rgb(253, 170, 17)); 
+     background-image: linear-gradient(rgb(234, 40, 40), rgb(241, 84, 241), rgb(253, 170, 17)); 
      color: transparent;
      background-clip: text;
     font-family : "Nabla";
-    font-size: 25px;
+    font-size: 50px;
      padding: 12px 25px;
      border-radius: 5px;
-     width: 500px;
+     width: 700px;
      margin-bottom: 50px;
 }
 h1:hover{
