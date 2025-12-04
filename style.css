@@ -11,7 +11,7 @@ body {
     text-align: center;
 }
 h1{
-     background-image: linear-gradient(rgb(234, 40, 40), rgb(241, 84, 241), rgb(253, 170, 17)); 
+     background-image:url(./wallpaper\ 2.jpg) ;
      color: transparent;
      background-clip: text;
     font-family : "Nabla";
@@ -27,8 +27,8 @@ h1:hover{
 }
 button {
     padding: 12px 25px;
-    background-image: linear-gradient(to bottom right, pink, skyblue, lightgreen);
-    color: rgb(232, 66, 66);
+    background-image: linear-gradient(to bottom right, rgb(238, 8, 81), rgb(25, 110, 206), rgb(202, 3, 145), rgb(6, 100, 231));
+    color: white;
     border: none;
     cursor: pointer;
     font-size: 22px;
@@ -41,5 +41,5 @@ button:hover {
     color: initial;
     cursor: pointer;
     transform: scale(1.03);
-     box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+     color: rgb(12, 228, 84);
 } 
