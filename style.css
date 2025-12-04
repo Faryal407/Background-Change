@@ -18,7 +18,7 @@ h1{
     font-size: 50px;
      padding: 12px 25px;
      border-radius: 5px;
-     width: 700px;
+     width: 500px;
      margin-bottom: 50px;
 }
 h1:hover{
@@ -34,7 +34,7 @@ button {
     font-size: 22px;
     border-radius: 10px;
     transition: 0.3s;
-    width: 300px;
+    width: 200px;
 }
 
 button:hover {
@@ -42,4 +42,4 @@ button:hover {
     cursor: pointer;
     transform: scale(1.03);
      color: rgb(12, 228, 84);
-} 
+}
