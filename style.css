@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+     justify-content: center;
+    align-items: center; 
+    font-family: Arial, sans-serif;
+}
+.container {
+    margin-bottom: 100px;
+    text-align: center;
+}
+h1{
+     background-image: linear-gradient(rgb(234, 40, 40), plum, rgb(253, 170, 17)); 
+     color: transparent;
+     background-clip: text;
+    font-family : "Nabla";
+    font-size: 25px;
+     padding: 12px 25px;
+     border-radius: 5px;
+     width: 500px;
+     margin-bottom: 50px;
+}
+h1:hover{
+     color: initial;
+     cursor: pointer;
+}
+button {
+    padding: 12px 25px;
+    background-image: linear-gradient(to bottom right, pink, skyblue, lightgreen);
+    color: rgb(232, 66, 66);
+    border: none;
+    cursor: pointer;
+    font-size: 22px;
+    border-radius: 10px;
+    transition: 0.3s;
+    width: 300px;
+}
+
+button:hover {
+    color: initial;
+    cursor: pointer;
+    transform: scale(1.03);
+     box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+} 
